@@ -1,0 +1,4 @@
+$: -1546078668
+BuildCommand: build.sh
+RunCommand: run.sh
+Product: qrummy.apk

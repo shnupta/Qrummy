@@ -1,0 +1,37 @@
+-x
+c++
+-c
+-fPIC
+-DANDROID
+-DANDROID_NDK
+-fno-rtti
+-fno-exceptions
+"--sysroot=/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK/platforms/android-9/arch-arm"
+"-I/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK/sources/cxx-stl/stlport/stlport"
+"-I/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK/sources/cxx-stl/gabi++/include"
+-fpic
+-ffunction-sections
+-funwind-tables
+-fstack-protector
+-no-canonical-prefixes
+-march=armv7-a
+-mfpu=vfpv3-d16
+-mfloat-abi=softfp
+-mthumb
+-Os
+-g
+-DNDEBUG
+-fomit-frame-pointer
+-fno-strict-aliasing
+-finline-limit=64
+-O0
+-UNDEBUG
+-fno-omit-frame-pointer
+-fno-strict-aliasing
+-std=c++11
+-fexceptions
+-frtti
+-Wno-invalid-offsetof
+-I/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/src/main/include
+-I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3
+-I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include

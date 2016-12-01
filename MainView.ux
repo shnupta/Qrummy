@@ -1,2 +1,15 @@
 <App>
+	<Font File="Variane-Script.ttf" ux:Global="regular" />
+	<Qreader ux:Global="Qreader" />
+	<JavaScript File="Main.js" />
+	<ClientPanel>
+		<StackPanel>
+			<Text Alignment="Center" Margin="30" FontSize="60" Font="regular">Qrummy</Text>
+			<Image Alignment="Center" Height="90%" File="wiki_qr.png" Margin="10" />
+			<Rectangle Alignment="Center" Width="160" Height="50" Clicked="{load}" Color="#cccccc" CornerRadius="10">
+				<Text Alignment="Center" Value="Scan" FontSize="35" Font="regular" />
+			</Rectangle>
+			<Button Alignment="Center" Text="Load Page" Margin="20" Clicked="{launchweb}"/>
+		</StackPanel>
+	</ClientPanel>
 </App>

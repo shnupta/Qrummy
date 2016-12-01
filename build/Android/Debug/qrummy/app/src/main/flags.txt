@@ -1,0 +1,7 @@
+/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK
+9
+armeabi-v7a
+-O3 -g -DNDEBUG
+
+ -I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3 -I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include
+/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK/sources/cxx-stl/stlport/stlport
