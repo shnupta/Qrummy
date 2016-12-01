@@ -1181,6 +1181,12 @@ DataBinding_type* DataBinding_typeof()
     return type;
 }
 
+// public DataBinding(Uno.UX.Property<T> target, string key) :184
+void DataBinding__ctor_2_fn(DataBinding* __this, ::g::Uno::UX::Property1* target, uString* key)
+{
+    __this->ctor_2(target, key);
+}
+
 // private static bool Acceptor(object obj) :379
 void DataBinding__Acceptor_fn(uType* __type, uObject* obj, bool* __retval)
 {
@@ -1239,6 +1245,12 @@ void DataBinding__FuseScriptingIObserverOnSet_fn(DataBinding* __this, uObject* n
 void DataBinding__InvalidListOperation_fn(DataBinding* __this)
 {
     __this->InvalidListOperation();
+}
+
+// public DataBinding New(Uno.UX.Property<T> target, string key) :184
+void DataBinding__New1_fn(uType* __type, ::g::Uno::UX::Property1* target, uString* key, DataBinding** __retval)
+{
+    *__retval = DataBinding::New1(__type, target, key);
 }
 
 // internal override sealed void NewValue(object value) :292
@@ -1369,6 +1381,15 @@ void DataBinding__UnoUXIPropertyListenerOnPropertyChanged_fn(DataBinding* __this
     }
 }
 
+// public DataBinding(Uno.UX.Property<T> target, string key) [instance] :184
+void DataBinding::ctor_2(::g::Uno::UX::Property1* target, uString* key)
+{
+    ctor_1(key);
+    Target(target);
+    _read = true;
+    _write = true;
+}
+
 // private void InvalidListOperation() [instance] :218
 void DataBinding::InvalidListOperation()
 {
@@ -1458,6 +1479,14 @@ bool DataBinding::Acceptor(uType* __type, uObject* obj)
         __type->Precalced(0/*T*/),
     };
     return uIs(obj, __types[0]);
+}
+
+// public DataBinding New(Uno.UX.Property<T> target, string key) [static] :184
+DataBinding* DataBinding::New1(uType* __type, ::g::Uno::UX::Property1* target, uString* key)
+{
+    DataBinding* obj1 = (DataBinding*)uNew(__type);
+    obj1->ctor_2(target, key);
+    return obj1;
 }
 
 // private static Uno.UX.Selector ToSelector(object newValue) [static] :372

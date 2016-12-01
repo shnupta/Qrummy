@@ -6,6 +6,8 @@
 namespace g{namespace Fuse{namespace Reactive{struct EventBinding;}}}
 namespace g{namespace Fuse{struct Font;}}
 namespace g{namespace Uno{namespace UX{struct NameTable;}}}
+namespace g{namespace Uno{namespace UX{struct Property1;}}}
+namespace g{namespace Uno{namespace UX{struct Selector;}}}
 namespace g{struct MainView;}
 namespace g{struct Qreader;}
 
@@ -23,12 +25,15 @@ struct MainView : ::g::Fuse::App
     uStrong< ::g::Uno::UX::NameTable*> __g_nametable1;
     static uSStrong<uArray*> __g_static_nametable1_;
     static uSStrong<uArray*>& __g_static_nametable1() { return MainView_typeof()->Init(), __g_static_nametable1_; }
+    static ::g::Uno::UX::Selector __selector0_;
+    static ::g::Uno::UX::Selector& __selector0() { return MainView_typeof()->Init(), __selector0_; }
     static uSStrong< ::g::Qreader*> Qreader_;
     static uSStrong< ::g::Qreader*>& Qreader() { return MainView_typeof()->Init(), Qreader_; }
     static uSStrong< ::g::Fuse::Font*> regular_;
     static uSStrong< ::g::Fuse::Font*>& regular() { return MainView_typeof()->Init(), regular_; }
     uStrong< ::g::Fuse::Reactive::EventBinding*> temp_eb0;
     uStrong< ::g::Fuse::Reactive::EventBinding*> temp_eb1;
+    uStrong< ::g::Uno::UX::Property1*> temp_Value_inst;
 
     void ctor_3();
     void InitializeUX();

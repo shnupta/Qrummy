@@ -5719,6 +5719,7 @@ static void WhileTrue_build(uType* type)
     options.TypeSize = sizeof(::g::Fuse::Triggers::WhileBool_type);
     type = (::g::Fuse::Triggers::WhileBool_type*)uClassType::New("Fuse.Triggers.WhileTrue", options);
     type->fp_build_ = WhileTrue_build;
+    type->fp_ctor_ = (void*)WhileTrue__New2_fn;
     type->fp_get_IsOn = (void(*)(::g::Fuse::Triggers::WhileValue*, bool*))WhileTrue__get_IsOn_fn;
     type->interface6.fp_Toggle = (void(*)(uObject*))::g::Fuse::Triggers::WhileBool__Toggle_fn;
     type->interface5.fp_Pulse = (void(*)(uObject*))::g::Fuse::Triggers::WhileValue__Pulse1_fn;
@@ -5752,10 +5753,24 @@ void WhileTrue__get_IsOn_fn(WhileTrue* __this, bool* __retval)
     return *__retval = __this->Value1(), void();
 }
 
+// public generated WhileTrue New() :2943
+void WhileTrue__New2_fn(WhileTrue** __retval)
+{
+    *__retval = WhileTrue::New2();
+}
+
 // public generated WhileTrue() [instance] :2943
 void WhileTrue::ctor_7()
 {
     ctor_6();
+}
+
+// public generated WhileTrue New() [static] :2943
+WhileTrue* WhileTrue::New2()
+{
+    WhileTrue* obj1 = (WhileTrue*)uNew(WhileTrue_typeof());
+    obj1->ctor_7();
+    return obj1;
 }
 // }
 

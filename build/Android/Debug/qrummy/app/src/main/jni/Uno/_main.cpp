@@ -1345,6 +1345,7 @@ namespace g{namespace Uno{namespace UX{struct Property1_type;}} ::g::Uno::UX::Pr
 namespace g{namespace Uno{namespace UX{struct Property1_type;}} ::g::Uno::UX::Property1_type* FuseControlsScrollView_FuseControlsScrollViewBase_UserScroll_Property_typeof();}
 namespace g{namespace Uno{namespace UX{struct Property1_type;}} ::g::Uno::UX::Property1_type* FuseControlsScrollView_FuseGesturesScroller_UserScroll_Property_typeof();}
 namespace g{namespace Uno{namespace UX{struct Property1_type;}} ::g::Uno::UX::Property1_type* FuseControlsScrollView_FuseTriggersWhileBool_Value_Property_typeof();}
+namespace g{namespace Uno{namespace UX{struct Property1_type;}} ::g::Uno::UX::Property1_type* qrummy_FuseTriggersWhileBool_Value_Property_typeof();}
 namespace g{namespace Uno{namespace UX{struct Property1_type;}} namespace Fuse{::g::Uno::UX::Property1_type* Visual__ParameterProperty_typeof();}}
 namespace g{namespace Uno{namespace UX{struct Property1_type;}} namespace Fuse{namespace Controls{::g::Uno::UX::Property1_type* Element_Opacity_Property_typeof();}}}
 namespace g{namespace Uno{namespace UX{struct Template_type; Template_type* Template_typeof();}}}
@@ -2340,6 +2341,7 @@ void uInitRtti()
         (uType*(*)())&::g::Qreader_typeof,
         (uType*(*)())&::g::QreaderImpl_typeof,
         (uType*(*)())&::g::qrummy_bundle_typeof,
+        (uType*(*)())&::g::qrummy_FuseTriggersWhileBool_Value_Property_typeof,
         (uType*(*)())&::g::Uno::AggregateException_typeof,
         (uType*(*)())&::g::Uno::Application_typeof,
         (uType*(*)())&::g::Uno::ArgumentException_typeof,

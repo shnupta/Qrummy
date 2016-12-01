@@ -8,6 +8,7 @@
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/1lct681eu3f6d0legfmrd4037/Fuse.Controls.Graphics.g.o
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/1mk2kscwm8vuojqdylsk82xc2/Fuse.Entities.g.o
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/1vzpd19hpriyyl6v7syuyxty6/Fuse.Gestures.g.o
+/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/1w8ujf88du8o7b5ceaz7gt5hj/_root.qrummy_FuseTriggersWhileBool_Value_Property.o
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/2696od3jh5f6fw9h1r9x0ajs9/Base64.o
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/2a172frr1lqmctnv265ejrd2j/Polyfills.Window.g.o
 /Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/objectFiles/armeabi-v7aDebugSharedLibrary/qrummyMainCpp/2i3t017a91lhpojm8otvvim0n/Uno.Graphics.g.o

@@ -8,12 +8,12 @@
         "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_toolbar.xml",
-        "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
-    },
-    {
         "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/design_navigation_menu_item.xml",
         "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_screen_toolbar.xml"
     },
     {
         "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_part_time.xml",
@@ -52,12 +52,12 @@
         "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_menu_layout.xml",
-        "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
-    },
-    {
         "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/notification_template_icon_group.xml",
         "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/layout/abc_action_menu_layout.xml"
     },
     {
         "merged": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/layout/design_layout_snackbar.xml",

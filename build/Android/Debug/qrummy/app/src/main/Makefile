@@ -87,6 +87,7 @@ libs/$(ABI)/$(SONAME): .uno/_root.MainView.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.Qreader.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.QreaderImpl.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.qrummy_bundle.cpp.o
+libs/$(ABI)/$(SONAME): .uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.g.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.Primitives.g.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.Types.g.cpp.o
@@ -247,6 +248,7 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.MainView.cpp.o: include/_root.MainView.h
 .uno/_root.MainView.cpp.o: include/_root.Qreader.h
 .uno/_root.MainView.cpp.o: include/_root.qrummy_bundle.h
+.uno/_root.MainView.cpp.o: include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h
 .uno/_root.MainView.cpp.o: include/Fuse.Binding.h
 .uno/_root.MainView.cpp.o: include/Fuse.Controls.Button.h
 .uno/_root.MainView.cpp.o: include/Fuse.Controls.ButtonBase.h
@@ -264,6 +266,7 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.MainView.cpp.o: include/Fuse.Gestures.Clicked.h
 .uno/_root.MainView.cpp.o: include/Fuse.Gestures.ClickedHandler.h
 .uno/_root.MainView.cpp.o: include/Fuse.Node.h
+.uno/_root.MainView.cpp.o: include/Fuse.Reactive.DataBinding-1.h
 .uno/_root.MainView.cpp.o: include/Fuse.Reactive.EventBinding.h
 .uno/_root.MainView.cpp.o: include/Fuse.Reactive.FuseJS.Email.h
 .uno/_root.MainView.cpp.o: include/Fuse.Reactive.FuseJS.Http.h
@@ -274,6 +277,9 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.MainView.cpp.o: include/Fuse.Reactive.JavaScript.h
 .uno/_root.MainView.cpp.o: include/Fuse.Storage.StorageModule.h
 .uno/_root.MainView.cpp.o: include/Fuse.Triggers.BusyTaskModule.h
+.uno/_root.MainView.cpp.o: include/Fuse.Triggers.Trigger.h
+.uno/_root.MainView.cpp.o: include/Fuse.Triggers.WhileBool.h
+.uno/_root.MainView.cpp.o: include/Fuse.Triggers.WhileTrue.h
 .uno/_root.MainView.cpp.o: include/Fuse.Visual.h
 .uno/_root.MainView.cpp.o: include/FuseJS.Base64.h
 .uno/_root.MainView.cpp.o: include/FuseJS.Bundle.h
@@ -283,6 +289,7 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.MainView.cpp.o: include/FuseJS.Lifecycle.h
 .uno/_root.MainView.cpp.o: include/FuseJS.UserEvents.h
 .uno/_root.MainView.cpp.o: include/Polyfills.Window.WindowModule.h
+.uno/_root.MainView.cpp.o: include/Uno.Bool.h
 .uno/_root.MainView.cpp.o: include/Uno.Collections.ICollection-1.h
 .uno/_root.MainView.cpp.o: include/Uno.Collections.IList-1.h
 .uno/_root.MainView.cpp.o: include/Uno.Float.h
@@ -294,7 +301,9 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.MainView.cpp.o: include/Uno.UX.BundleFileSource.h
 .uno/_root.MainView.cpp.o: include/Uno.UX.FileSource.h
 .uno/_root.MainView.cpp.o: include/Uno.UX.NameTable.h
+.uno/_root.MainView.cpp.o: include/Uno.UX.Property-1.h
 .uno/_root.MainView.cpp.o: include/Uno.UX.Resource.h
+.uno/_root.MainView.cpp.o: include/Uno.UX.Selector.h
 .uno/_root.MainView.cpp.o: include/Uno.UX.Size.h
 .uno/_root.MainView.cpp.o: include/Uno.UX.Unit.h
 .uno/_root.MainView.cpp.o: jni/_root.MainView.cpp flags.txt | .uno
@@ -337,6 +346,15 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 .uno/_root.qrummy_bundle.cpp.o: jni/_root.qrummy_bundle.cpp flags.txt | .uno
 	echo _root.qrummy_bundle.cpp
 	$(CXX) $(CXX_FLAGS) -o .uno/_root.qrummy_bundle.cpp.o -c jni/_root.qrummy_bundle.cpp
+
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Fuse.Triggers.WhileBool.h
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.IPropertyListener.h
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.PropertyObject.h
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.Selector.h
+.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: jni/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp flags.txt | .uno
+	echo _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp
+	$(CXX) $(CXX_FLAGS) -o .uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o -c jni/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp
 
 .uno/Android.Base.g.cpp.o: include/Android.Base.AndroidBindingMacros.h
 .uno/Android.Base.g.cpp.o: include/Android.Base.JNI.h
@@ -5147,6 +5165,9 @@ include/_root.Qreader.h: include/Uno.IDisposable.h
 include/_root.QreaderImpl.h: include/Uno.Object.h
 
 include/_root.qrummy_bundle.h: include/Uno.h
+
+include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.Bool.h
+include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.UX.Property-1.h
 
 include/Android.Base.AndroidBindingMacros.h: include/Uno.Type.h
 include/Android.Base.AndroidBindingMacros.h: include/Uno.Exception.h
