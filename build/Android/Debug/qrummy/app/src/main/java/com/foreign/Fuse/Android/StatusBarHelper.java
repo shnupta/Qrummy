@@ -20,12 +20,12 @@ public class StatusBarHelper
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static int GetStatusBarColor274()
     {
-        android.view.Window window = com.apps.qrummy.qrummy.GetRootActivity().getWindow();
+        android.view.Window window = com.apps.qrummy.Qrummy.GetRootActivity().getWindow();
         			if (Integer.valueOf(android.os.Build.VERSION.SDK) >= 21)
         				return window.getStatusBarColor();
         			else
@@ -34,7 +34,7 @@ public class StatusBarHelper
     
     public static void InstallGlobalListener275()
     {
-        android.view.Window window = com.apps.qrummy.qrummy.GetRootActivity().getWindow();
+        android.view.Window window = com.apps.qrummy.Qrummy.GetRootActivity().getWindow();
         			window.getDecorView().getViewTreeObserver().addOnGlobalFocusChangeListener(
         				new android.view.ViewTreeObserver.OnGlobalFocusChangeListener() {
         					boolean _focusWasEditText;
@@ -50,7 +50,7 @@ public class StatusBarHelper
     
     public static void SetStatusBarColor277(final int color)
     {
-        android.view.Window window = com.apps.qrummy.qrummy.GetRootActivity().getWindow();
+        android.view.Window window = com.apps.qrummy.Qrummy.GetRootActivity().getWindow();
         			if (Integer.valueOf(android.os.Build.VERSION.SDK) >= 21)
         			{
         				window.setFlags(

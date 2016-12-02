@@ -1,4 +1,4 @@
-See file:///Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/tmp/linkQrummyArmeabi-v7aDebugSharedLibrary/output.txt for all output for linkQrummyArmeabi-v7aDebugSharedLibrary.
-linking libqrummy.so successful.
+See file:///Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/tmp/linkQrummyArmeabi-v7aDebugSharedLibrary/output.txt for all output for linkQrummyArmeabi-v7aDebugSharedLibrary.
+linking libQrummy.so successful.
 
-Finished linkQrummyArmeabi-v7aDebugSharedLibrary, see full log file:///Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/tmp/linkQrummyArmeabi-v7aDebugSharedLibrary/output.txt.
+Finished linkQrummyArmeabi-v7aDebugSharedLibrary, see full log file:///Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/tmp/linkQrummyArmeabi-v7aDebugSharedLibrary/output.txt.

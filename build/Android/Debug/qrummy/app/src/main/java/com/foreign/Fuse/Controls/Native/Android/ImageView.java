@@ -20,7 +20,7 @@ public class ImageView
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void ClearBitmap82(final Object handle)
@@ -32,7 +32,7 @@ public class ImageView
     public static Object Create83(final Object container)
     {
         android.widget.RelativeLayout relativeLayout = (android.widget.RelativeLayout)container;
-        			android.widget.ImageView imageView = new android.widget.ImageView(com.apps.qrummy.qrummy.GetRootActivity());
+        			android.widget.ImageView imageView = new android.widget.ImageView(com.apps.qrummy.Qrummy.GetRootActivity());
         			imageView.setScaleType(android.widget.ImageView.ScaleType.MATRIX);
         			imageView.setLayoutParams(new android.widget.RelativeLayout.LayoutParams(android.view.ViewGroup.LayoutParams.FILL_PARENT, android.view.ViewGroup.LayoutParams.FILL_PARENT));
         			relativeLayout.addView(imageView);
@@ -41,7 +41,7 @@ public class ImageView
     
     public static Object CreateContainer84()
     {
-        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.Qrummy.GetRootActivity());
         			relativeLayout.setFocusable(true);
         			relativeLayout.setFocusableInTouchMode(true);
         			relativeLayout.setClipToPadding(true);

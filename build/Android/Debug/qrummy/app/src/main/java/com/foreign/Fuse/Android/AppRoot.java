@@ -20,7 +20,7 @@ public class AppRoot
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void ClearRootView251(final Object handle)
@@ -30,7 +30,7 @@ public class AppRoot
     
     public static Object CreateRootView252()
     {
-        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.qrummy.GetRootActivity()) {
+        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.Qrummy.GetRootActivity()) {
         
         					android.view.MotionEvent _currentEvent;
         

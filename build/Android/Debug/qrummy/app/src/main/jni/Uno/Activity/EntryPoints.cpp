@@ -494,7 +494,7 @@ jint JNI_OnLoad(JavaVM* vm, void* reserved)
         LOGD ("&&&&&&& GetEnv failed &&&&&&");
         return -1;
     }
-    jclass activityClass = env->FindClass("com/apps/qrummy/qrummy");
+    jclass activityClass = env->FindClass("com/apps/qrummy/Qrummy");
     jclass entryPointsClass = env->FindClass("com/apps/qrummy/ActivityNativeEntryPoints");
     jclass displayClass = env->FindClass("com/apps/qrummy/Display");
     jclass nativeExternClass = env->FindClass("com/Bindings/ExternedBlockHost");

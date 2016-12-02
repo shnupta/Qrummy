@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
           package="com.apps.qrummy"
           android:versionCode="0"
-          android:versionName="0.0.1">
+          android:versionName="0.0.2">
 
     <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="23" />
     <uses-feature android:glEsVersion="0x00020000"/>
@@ -17,15 +17,15 @@
     <uses-feature android:name="android.hardware.camera.autofocus"/>
     <uses-permission android:name="android.permission.CAMERA"/>
 
-    <application android:label="qrummy"
+    <application android:label="Qrummy"
 
 
 
                  android:icon="@mipmap/icon"
                  android:description="@string/description">
 
-        <activity android:name="qrummy"
-                  android:label="qrummy"
+        <activity android:name="Qrummy"
+                  android:label="Qrummy"
                   android:launchMode="singleTask"
                   android:theme="@style/AppTheme"
                   android:taskAffinity=""
@@ -37,7 +37,7 @@
 android:screenOrientation="user"
 
                   android:windowActionBar="false">
-            <meta-data android:name="android.app.lib_name" android:value="qrummy" />
+            <meta-data android:name="android.app.lib_name" android:value="Qrummy" />
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

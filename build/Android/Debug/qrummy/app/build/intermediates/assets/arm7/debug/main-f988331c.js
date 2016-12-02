@@ -13,6 +13,7 @@ function load () {
 
 function launchweb() {
   InterApp.launchUri(txt.value);
+  showload.value = false;
 }
 
 module.exports = {

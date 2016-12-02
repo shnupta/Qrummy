@@ -33,7 +33,7 @@ import android.view.View.OnLayoutChangeListener;
 
 
 //#if #(GRADLE:Defined)
-public class qrummy extends android.support.v7.app.AppCompatActivity implements ActivityCompat.OnRequestPermissionsResultCallback
+public class Qrummy extends android.support.v7.app.AppCompatActivity implements ActivityCompat.OnRequestPermissionsResultCallback
 //#else
 //public class #(Activity.Name) extends android.app.Activity implements ActivityCompat.OnRequestPermissionsResultCallback
 //#endif
@@ -55,7 +55,7 @@ public class qrummy extends android.support.v7.app.AppCompatActivity implements 
     public final ActivityState activityState; // one per activity
 
     //
-    public qrummy()
+    public Qrummy()
     {
     	super();
     	_appState = AppState.Create(this);
@@ -71,7 +71,7 @@ public class qrummy extends android.support.v7.app.AppCompatActivity implements 
 
     public static void TerminateOnException(final Exception e)
     {
-    	qrummy activity = _appState.CurrentActivity;
+    	Qrummy activity = _appState.CurrentActivity;
         ActivityState activityState = activity.activityState;
         activityState.Destroyed = true;
 
@@ -84,7 +84,7 @@ public class qrummy extends android.support.v7.app.AppCompatActivity implements 
 
     private static AlertDialog MakeUnoExceptionAlertDialog(final Exception e)
     {
-    	qrummy activity = _appState.CurrentActivity;
+    	Qrummy activity = _appState.CurrentActivity;
     	final TextView textView = new TextView(activity);
     	textView.setText(makeExceptionString(e));
     	final ScrollView scrollView = new ScrollView(activity);
@@ -421,7 +421,7 @@ public class qrummy extends android.support.v7.app.AppCompatActivity implements 
     {
         return _appState.CurrentActivity;
     }
-    public static qrummy RootActivity()
+    public static Qrummy RootActivity()
     {
         return _appState.CurrentActivity;
     }

@@ -32,6 +32,6 @@ c++
 -fexceptions
 -frtti
 -Wno-invalid-offsetof
--I/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/src/main/include
+-I/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/src/main/include
 -I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3
 -I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include

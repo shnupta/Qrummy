@@ -20,7 +20,7 @@ public class TextEditRenderHost
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddView155(final Object parentHandle,final Object childHandle)
@@ -32,7 +32,7 @@ public class TextEditRenderHost
     
     public static Object Create156()
     {
-        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.RelativeLayout relativeLayout = new android.widget.RelativeLayout(com.apps.qrummy.Qrummy.GetRootActivity());
         			relativeLayout.setFocusable(true);
         			relativeLayout.setFocusableInTouchMode(true);
         			relativeLayout.setClipToPadding(false);

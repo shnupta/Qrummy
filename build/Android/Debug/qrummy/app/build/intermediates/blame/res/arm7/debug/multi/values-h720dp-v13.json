@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/res/merged/arm7/debug/values-h720dp-v13/values-h720dp-v13.xml",
+        "outputFile": "/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/res/merged/arm7/debug/values-h720dp-v13/values-h720dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 117
                 },
                 "from": {
-                    "file": "/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "file": "/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-h720dp-v13/values-h720dp-v13.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

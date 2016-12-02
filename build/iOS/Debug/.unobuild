@@ -1,4 +1,4 @@
 $: -1330623906
 BuildCommand: build.sh
 RunCommand: run.sh
-Product: build/Debug-iphoneos/qrummy.app/qrummy
+Product: build/Debug-iphoneos/Qrummy.app/Qrummy

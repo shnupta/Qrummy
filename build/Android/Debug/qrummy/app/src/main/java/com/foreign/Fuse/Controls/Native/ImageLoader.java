@@ -20,7 +20,7 @@ public class ImageLoader
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object LoadFile204(final String filePath)
@@ -43,7 +43,7 @@ public class ImageLoader
         android.graphics.Bitmap bitmap = null;
         			try
         			{
-        				java.io.InputStream stream = com.apps.qrummy.qrummy
+        				java.io.InputStream stream = com.apps.qrummy.Qrummy
         					.GetRootActivity()
         					.getAssets()
         					.open(uri);

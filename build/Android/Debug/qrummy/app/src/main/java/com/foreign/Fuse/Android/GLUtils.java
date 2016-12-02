@@ -20,7 +20,7 @@ public class GLUtils
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void TexImage2D261(final int target,final int level,final Object bitmap,final int border)

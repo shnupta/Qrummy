@@ -28,7 +28,7 @@ public class HttpImageLoader
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void LoadAsync81(final String urlString,final com.foreign.Uno.Action_Object success,final com.foreign.Uno.Action_String error)

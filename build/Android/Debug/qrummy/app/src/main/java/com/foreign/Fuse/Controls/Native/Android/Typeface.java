@@ -20,12 +20,12 @@ public class Typeface
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object CreateFromBundleFile182(final String bundlePath)
     {
-        android.content.res.AssetManager assetManager = (com.apps.qrummy.qrummy.GetRootActivity()).getAssets();
+        android.content.res.AssetManager assetManager = (com.apps.qrummy.Qrummy.GetRootActivity()).getAssets();
         			android.graphics.Typeface typeface = android.graphics.Typeface.createFromAsset(assetManager, bundlePath);
         			return typeface;
     }

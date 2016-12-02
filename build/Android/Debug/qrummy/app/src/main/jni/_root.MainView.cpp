@@ -1,10 +1,10 @@
-// This file was generated based on /Users/caseywilliams/Documents/Apps/qrummy/.uno/ux11/MainView.g.uno.
+// This file was generated based on /Users/caseywilliams/Documents/Apps/Qrummy/.uno/ux11/MainView.g.uno.
 // WARNING: Changes might be lost if you edit this file directly.
 
 #include <_root.MainView.h>
 #include <_root.Qreader.h>
-#include <_root.qrummy_bundle.h>
-#include <_root.qrummy_FuseTriggersWhileBool_Value_Property.h>
+#include <_root.Qrummy_bundle.h>
+#include <_root.Qrummy_FuseTriggersWhileBool_Value_Property.h>
 #include <Fuse.Binding.h>
 #include <Fuse.Controls.Button.h>
 #include <Fuse.Controls.ButtonBase.h>
@@ -74,7 +74,7 @@ static void MainView__cctor__fn(uType* __type)
 {
     MainView::__g_static_nametable1_ = uArray::Init<uString*>(::TYPES[0/*string[]*/], 0);
     MainView::__selector0_ = ::g::Uno::UX::Selector__op_Implicit(::STRINGS[0/*"Value"*/]);
-    MainView::regular_ = ::g::Fuse::Font::New2(::g::Uno::UX::BundleFileSource::New1(::g::qrummy_bundle::VarianeScriptaa14cd2e()));
+    MainView::regular_ = ::g::Fuse::Font::New2(::g::Uno::UX::BundleFileSource::New1(::g::Qrummy_bundle::VarianeScript758bdcce()));
     MainView::Qreader_ = ::g::Qreader::New2();
     ::g::Uno::UX::Resource::SetGlobalKey(MainView::regular_, ::STRINGS[1/*"regular"*/]);
     ::g::Uno::UX::Resource::SetGlobalKey(MainView::Qreader_, ::STRINGS[2/*"Qreader"*/]);
@@ -177,7 +177,7 @@ void MainView::InitializeUX()
     ::g::FuseJS::UserEvents* temp17 = ::g::FuseJS::UserEvents::New2();
     __g_nametable1 = ::g::Uno::UX::NameTable::New1(NULL, MainView::__g_static_nametable1());
     ::g::Fuse::Triggers::WhileTrue* temp = ::g::Fuse::Triggers::WhileTrue::New2();
-    temp_Value_inst = ::g::qrummy_FuseTriggersWhileBool_Value_Property::New1(temp, MainView::__selector0());
+    temp_Value_inst = ::g::Qrummy_FuseTriggersWhileBool_Value_Property::New1(temp, MainView::__selector0());
     ::g::Fuse::Reactive::JavaScript* temp18 = ::g::Fuse::Reactive::JavaScript::New2(__g_nametable1);
     ::g::Fuse::Controls::ClientPanel* temp19 = ::g::Fuse::Controls::ClientPanel::New5();
     ::g::Fuse::Controls::StackPanel* temp20 = ::g::Fuse::Controls::StackPanel::New4();
@@ -191,7 +191,7 @@ void MainView::InitializeUX()
     ::g::Fuse::Reactive::DataBinding* temp26 = (::g::Fuse::Reactive::DataBinding*)::g::Fuse::Reactive::DataBinding::New1(::TYPES[1/*Fuse.Reactive.DataBinding<bool>*/], temp_Value_inst, ::STRINGS[5/*"showload"*/]);
     temp18->LineNumber(4);
     temp18->FileName(::STRINGS[6/*"MainView.ux"*/]);
-    temp18->File(::g::Uno::UX::BundleFileSource::New1(::g::qrummy_bundle::Main5482fe66()));
+    temp18->File(::g::Uno::UX::BundleFileSource::New1(::g::Qrummy_bundle::Main632aaf06()));
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp19->Children()), ::TYPES[2/*Uno.Collections.ICollection<Fuse.Node>*/]), temp20);
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp20->Children()), ::TYPES[2/*Uno.Collections.ICollection<Fuse.Node>*/]), temp21);
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp20->Children()), ::TYPES[2/*Uno.Collections.ICollection<Fuse.Node>*/]), temp22);
@@ -200,17 +200,18 @@ void MainView::InitializeUX()
     temp21->Value(::STRINGS[7/*"Qrummy"*/]);
     temp21->FontSize(60.0f);
     temp21->Alignment(10);
-    temp21->Margin(::g::Uno::Float4__New2(30.0f, 30.0f, 30.0f, 30.0f));
+    temp21->Margin(::g::Uno::Float4__New2(25.0f, 25.0f, 25.0f, 25.0f));
     temp21->Font(MainView::regular());
     temp22->Height(::g::Uno::UX::Size__New1(90.0f, 4));
     temp22->Alignment(10);
     temp22->Margin(::g::Uno::Float4__New2(10.0f, 10.0f, 10.0f, 10.0f));
-    temp22->File(::g::Uno::UX::BundleFileSource::New1(::g::qrummy_bundle::wiki_qr11949101()));
+    temp22->File(::g::Uno::UX::BundleFileSource::New1(::g::Qrummy_bundle::wiki_qr68e6b021()));
     temp23->CornerRadius(::g::Uno::Float4__New2(10.0f, 10.0f, 10.0f, 10.0f));
     temp23->Color(::g::Uno::Float4__New2(0.8f, 0.8f, 0.8f, 1.0f));
     temp23->Width(::g::Uno::UX::Size__New1(160.0f, 1));
     temp23->Height(::g::Uno::UX::Size__New1(50.0f, 1));
     temp23->Alignment(10);
+    temp23->Margin(::g::Uno::Float4__New2(20.0f, 20.0f, 20.0f, 20.0f));
     ::g::Fuse::Gestures::Clicked::AddHandler(temp23, uDelegate::New(::TYPES[3/*Fuse.Gestures.ClickedHandler*/], (void*)::g::Fuse::Reactive::EventBinding__OnEvent_fn, uPtr(temp_eb0)));
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp23->Children()), ::TYPES[2/*Uno.Collections.ICollection<Fuse.Node>*/]), temp24);
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp23->Bindings()), ::TYPES[4/*Uno.Collections.ICollection<Fuse.Binding>*/]), temp_eb0);
@@ -222,7 +223,7 @@ void MainView::InitializeUX()
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp->Bindings()), ::TYPES[4/*Uno.Collections.ICollection<Fuse.Binding>*/]), temp26);
     temp25->Text(::STRINGS[9/*"Load Page"*/]);
     temp25->Alignment(10);
-    temp25->Margin(::g::Uno::Float4__New2(20.0f, 20.0f, 20.0f, 20.0f));
+    temp25->Margin(::g::Uno::Float4__New2(0.0f, 5.0f, 0.0f, 10.0f));
     ::g::Fuse::Gestures::Clicked::AddHandler(temp25, uDelegate::New(::TYPES[3/*Fuse.Gestures.ClickedHandler*/], (void*)::g::Fuse::Reactive::EventBinding__OnEvent_fn, uPtr(temp_eb1)));
     ::g::Uno::Collections::ICollection::Add_ex(uInterface(uPtr(temp25->Bindings()), ::TYPES[4/*Uno.Collections.ICollection<Fuse.Binding>*/]), temp_eb1);
     uPtr(__g_nametable1)->This(this);

@@ -20,7 +20,7 @@ public class Switch
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddCallback147(final UnoObject _this, final Object handle)
@@ -34,7 +34,7 @@ public class Switch
     
     public static Object Create149()
     {
-        return new android.widget.Switch(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.widget.Switch(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static void SetValue150(final Object handle,final boolean value)

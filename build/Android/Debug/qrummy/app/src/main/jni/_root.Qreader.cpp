@@ -1,4 +1,4 @@
-// This file was generated based on /Users/caseywilliams/Documents/Apps/qrummy/Qreader.uno.
+// This file was generated based on /Users/caseywilliams/Documents/Apps/Qrummy/Qreader.uno.
 // WARNING: Changes might be lost if you edit this file directly.
 
 #include <_root.Qreader.h>

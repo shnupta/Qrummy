@@ -27,7 +27,7 @@ public class WebViewForeign
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddJavascriptInterface236(final Object handle,final String name,final com.foreign.Uno.Action_String resultHandler)

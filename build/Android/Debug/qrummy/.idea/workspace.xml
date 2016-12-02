@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a384de1d-5d71-4ead-ad0a-18b7931b8af6" name="Default" comment="" />
-    <ignored path="qrummy.iws" />
+    <ignored path="Qrummy.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +17,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="qrummy" />
+    <favorites_list name="Qrummy" />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -25,7 +25,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="qrummy" />
+              <option name="name" value="Qrummy" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -36,7 +36,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="qrummy" />
+                <option name="name" value="Qrummy" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -50,17 +50,17 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'qrummy'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'Qrummy'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'qrummy'." />
+                <option name="description" value="Displays all dependencies declared in root project 'Qrummy'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'qrummy'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'Qrummy'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -75,22 +75,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'qrummy'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'Qrummy'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'qrummy'." />
+                <option name="description" value="Displays the sub-projects of root project 'Qrummy'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'qrummy'." />
+                <option name="description" value="Displays the properties of root project 'Qrummy'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'qrummy' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'Qrummy' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -115,42 +115,42 @@
                 <option name="name" value="arm7Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabi-v7aDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi-v7a:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi-v7a:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabi-v7aDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi-v7a:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabi-v7aReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi-v7a:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi-v7a:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabi-v7aReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabiDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabiDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabiReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="armeabiReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -297,82 +297,82 @@
                 <option name="name" value="compileArm7ReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi-v7a:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi-v7a:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi-v7a:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi-v7a:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi-v7a:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi-v7a:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi-v7a:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi-v7a:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi-v7a:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi-v7a:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileArmeabiReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
@@ -381,82 +381,82 @@
                 <option name="name" value="compileLint" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:mips:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:mips:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:mips:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:mips:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:mips:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:mips:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:mips:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:mips:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:mips:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:mips:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:mips:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:mips:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:mips:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:mips:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:mips:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:mips:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileMipsReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:x86:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:x86:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86DebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:x86:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:x86:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86DebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:x86:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:x86:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86DebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:x86:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:x86:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86DebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:x86:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:x86:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86ReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:x86:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:x86:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86ReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:x86:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:x86:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86ReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:x86:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:x86:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="compileX86ReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
@@ -716,22 +716,22 @@
                 <option name="name" value="mergeArm7ReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:mips:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:mips:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mipsDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:mips:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:mips:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mipsDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:mips:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:mips:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mipsReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:mips:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:mips:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="mipsReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -963,22 +963,22 @@
                 <option name="name" value="validateDebugSigning" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:x86:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:x86:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="x86DebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:x86:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:x86:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="x86DebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:x86:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:x86:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="x86ReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:x86:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:x86:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="x86ReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -1008,42 +1008,42 @@
                 <option name="name" value="arm7Release" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabi-v7aDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi-v7a:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi-v7a:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabi-v7aDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi-v7a:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabi-v7aReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi-v7a:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi-v7a:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabi-v7aReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabiDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabiDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:armeabi:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:armeabi:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabiReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:armeabi:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:armeabi:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="armeabiReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -1190,82 +1190,82 @@
                 <option name="name" value="compileArm7ReleaseUnitTestSources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi-v7a:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi-v7a:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi-v7a:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi-v7a:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi-v7a:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi-v7a:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi-v7a:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi-v7a:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi-v7a:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi-v7a:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi-v7a:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi-v7a:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi-v7a:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabi-v7aReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:armeabi:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:armeabi:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:armeabi:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:armeabi:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:armeabi:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:armeabi:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:armeabi:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:armeabi:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileArmeabiReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
@@ -1274,82 +1274,82 @@
                 <option name="name" value="compileLint" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:mips:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:mips:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsDebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:mips:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:mips:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsDebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:mips:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:mips:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsDebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:mips:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:mips:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsDebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:mips:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:mips:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:mips:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:mips:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:mips:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:mips:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:mips:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:mips:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileMipsReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:x86:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:x86:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86DebugFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:x86:debug:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:x86:debug:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86DebugFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:x86:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:x86:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86DebugFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:x86:debug:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:x86:debug:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86DebugFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of shared library 'qrummy:x86:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of shared library 'Qrummy:x86:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86ReleaseFoobarSharedLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of shared library 'qrummy:x86:release:sharedLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of shared library 'Qrummy:x86:release:sharedLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86ReleaseFoobarSharedLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C source 'qrummy:mainC' of static library 'qrummy:x86:release:staticLibrary'" />
+                <option name="description" value="Compiles the C source 'Qrummy:mainC' of static library 'Qrummy:x86:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86ReleaseFoobarStaticLibraryFoobarMainC" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Compiles the C++ source 'qrummy:mainCpp' of static library 'qrummy:x86:release:staticLibrary'" />
+                <option name="description" value="Compiles the C++ source 'Qrummy:mainCpp' of static library 'Qrummy:x86:release:staticLibrary'" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="compileX86ReleaseFoobarStaticLibraryFoobarMainCpp" />
               </ExternalTaskPojo>
@@ -1629,22 +1629,22 @@
                 <option name="name" value="mergeArm7ReleaseResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:mips:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:mips:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mipsDebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:mips:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:mips:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mipsDebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:mips:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:mips:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mipsReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:mips:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:mips:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="mipsReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -1896,22 +1896,22 @@
                 <option name="name" value="validateDebugSigning" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:x86:debug:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:x86:debug:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="x86DebugFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:x86:debug:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:x86:debug:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="x86DebugFoobarStaticLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles shared library 'qrummy:x86:release:sharedLibrary'." />
+                <option name="description" value="Assembles shared library 'Qrummy:x86:release:sharedLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="x86ReleaseFoobarSharedLibrary" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Assembles static library 'qrummy:x86:release:staticLibrary'." />
+                <option name="description" value="Assembles static library 'Qrummy:x86:release:staticLibrary'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="x86ReleaseFoobarStaticLibrary" />
               </ExternalTaskPojo>
@@ -2261,7 +2261,7 @@
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="qrummy" />
+              <option name="myItemId" value="Qrummy" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>

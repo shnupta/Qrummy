@@ -2,7 +2,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.apps.qrummy"
     android:versionCode="0"
-    android:versionName="0.0.1" >
+    android:versionName="0.0.2" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -25,11 +25,11 @@
     <application
         android:description="@string/description"
         android:icon="@mipmap/icon"
-        android:label="qrummy" >
+        android:label="Qrummy" >
         <activity
-            android:name="com.apps.qrummy.qrummy"
+            android:name="com.apps.qrummy.Qrummy"
             android:configChanges="orientation|keyboardHidden|screenSize|smallestScreenSize"
-            android:label="qrummy"
+            android:label="Qrummy"
             android:launchMode="singleTask"
             android:screenOrientation="user"
             android:taskAffinity=""
@@ -38,7 +38,7 @@
             android:windowSoftInputMode="adjustResize" >
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="qrummy" />
+                android:value="Qrummy" />
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

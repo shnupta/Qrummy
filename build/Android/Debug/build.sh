@@ -7,9 +7,9 @@ export JAVA_HOME="/Library/Java/JavaVirtualMachines/jdk1.8.0_40.jdk/Contents/Hom
 
 export SCRIPT_DIR="`dirname "$0"`"
 
-echo "## 2/2: qrummy.apk"
+echo "## 2/2: Qrummy.apk"
 
-cd "$SCRIPT_DIR/qrummy/"
+cd "$SCRIPT_DIR/Qrummy/"
 
 ##if #(AltBuildPath:IsSet)
 #./gradlew clean
@@ -18,4 +18,4 @@ cd "$SCRIPT_DIR/qrummy/"
 
 cd "$SCRIPT_DIR"
 
-ln -sf qrummy/app/build/outputs/apk/app-arm7-debug.apk qrummy.apk
+ln -sf Qrummy/app/build/outputs/apk/app-arm7-debug.apk Qrummy.apk

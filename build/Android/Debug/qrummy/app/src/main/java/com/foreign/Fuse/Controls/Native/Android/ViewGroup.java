@@ -20,7 +20,7 @@ public class ViewGroup
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddView196(final Object parentHandle,final Object childHandle)
@@ -39,7 +39,7 @@ public class ViewGroup
     
     public static Object Create198()
     {
-        android.widget.RelativeLayout relativeLayout = new com.fuse.android.views.ViewGroup(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.RelativeLayout relativeLayout = new com.fuse.android.views.ViewGroup(com.apps.qrummy.Qrummy.GetRootActivity());
         			relativeLayout.setFocusable(true);
         			relativeLayout.setFocusableInTouchMode(true);
         			relativeLayout.setLayoutParams(new android.widget.RelativeLayout.LayoutParams(android.view.ViewGroup.LayoutParams.FILL_PARENT, android.view.ViewGroup.LayoutParams.FILL_PARENT));

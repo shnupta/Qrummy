@@ -10,6 +10,6 @@ public class AppRuntimeSettings
     public static final boolean VerboseInternalLogs = false;
     public static final boolean KillActivityOnDestroy = true;
     public static final boolean KillOnBackButton = false;
-    public static final String AppName = "qrummy";
+    public static final String AppName = "Qrummy";
     public static int SDKVersion = Build.VERSION.SDK_INT;
 }

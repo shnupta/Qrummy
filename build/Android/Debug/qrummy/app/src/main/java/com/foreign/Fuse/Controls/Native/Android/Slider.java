@@ -20,7 +20,7 @@ public class Slider
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddChangedCallback134(final UnoObject _this, final Object handle)
@@ -36,7 +36,7 @@ public class Slider
     
     public static Object Create136()
     {
-        android.widget.SeekBar seekBar = new android.widget.SeekBar(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.SeekBar seekBar = new android.widget.SeekBar(com.apps.qrummy.Qrummy.GetRootActivity());
         			seekBar.setMax(1000);
         			return seekBar;
     }

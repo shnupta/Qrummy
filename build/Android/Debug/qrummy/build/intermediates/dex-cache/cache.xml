@@ -2,158 +2,158 @@
 <items version="2" >
 
     <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-vector-drawable-25.0.1_2e3edd6ac0b60d1a7f98c0a940c7961713c25f4e.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-transition-25.0.1_a8e49459f3fd744ed238be66ab11da1931c4ef2c.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-compat-25.0.1_1d0d1e2c7183450de24ac1ffd6cfd5de7f30e2dd.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-animated-vector-drawable-25.0.1_99fc864ef974c65bffd483661786130c62e7f8da.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_2902031532ca172d6d65aa493681b45bd4cdfa9d.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-utils-25.0.1_9f198c71f0179be5fddef5a1ba58673e42662042.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-fragment-25.0.1_a4a87a159c16785872d6b4985b39f6979c25d5a9.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_cfb11eff750e53ab90bcb621a2e1462607a976f9.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-tasks-9.2.1_942ad001ed90e859bc19307603c661c071c14675.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-base-9.2.1_93f6f09777b006e4b28a70499b1eb8301a3978ad.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="f83b00041ecfba705603fec40363416c7de69719">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_b5014dd8e8fd4e3913ae436f6b334e9701d40c53.jar" />
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_ebc1cfeb087b22afa179283395209575a29c3cf4.jar" />
     </item>
     <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_190b790bb98c9c757b47c6978d3ee127a4a27337.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_73113fd486cf295761a6a29569f7f48315332bc5.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-animated-vector-drawable-25.0.1_65dbf466a0364e776304b54f37c738feed2d6670.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-media-compat-25.0.1_2fbc2bc775877f959f00e6a4595ad54668dff1a9.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-base-9.2.1_7d7b41a9dc03e061fcb3d710d474df2cb4287e39.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-design-25.0.1_252589032ebe00ab76269fbda9b137e478e31a71.jar" />
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-design-25.0.1_e7baed50a1fb52cead81532a47717e52f22baf65.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-compat-25.0.1_1a869f7ff7bec50d0a614c46630e0acdf0e6c550.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-tasks-9.2.1_1220028161011cf0035ccd1b81c1f7dca73efde6.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-ui-25.0.1_3ccb85827fa471122505f9f1761202459dc864d0.jar" />
     </item>
     <item
         jar="/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidSDK/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-25.0.1_3eae86a75081e718409a91f26d27880c202c5eeb.jar" />
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/support-annotations-25.0.1_3eae86a75081e718409a91f26d27880c202c5eeb.jar" />
     </item>
     <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-basement-9.2.1_b2da5e5f7eb73098f332146d5459c414d65f412d.jar" />
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-utils-25.0.1_99f21691fb650ede1b98991b3662673c7b0bc5f5.jar" />
     </item>
     <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-vision-9.2.1_be13d6400cad478390c8c3f2ebf32dbf810fa844.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-appcompat-v7-25.0.1_fb82ea94db34e2f83467ec40bd9fd91b67ffce20.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_d8a980a6cc381556e9e318f7b0a3b51e465c0968.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-recyclerview-v7-25.0.1_072c612c2669593ef1c661f0a409fc6f59bd1299.jar" />
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-recyclerview-v7-25.0.1_68acad9ebe3d2dac8d48a90f1b2aa67f77b668aa.jar" />
     </item>
     <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_2bda911e423c0f0ecc4a453de68dc17f3123f91f.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-media-compat-25.0.1_d0353bd16040283f09327d47d4e318c70905ee05.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-core-ui-25.0.1_692d705ddae6f4010d5241c52ed3d163e0fce575.jar" />
-    </item>
-    <item
-        jar="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-v4-25.0.1_d7c20bc9656ddce7b993bc44e4db96185fd4de5a.jar" />
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-v4-25.0.1_30ed35322f77445b7df09d95fcdbec8f6df5af44.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-fragment-25.0.1_2c66084b853f7e8ec12a6abe5d495d699536a80d.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-support-vector-drawable-25.0.1_51d3e05119dcf6b8f94ed8383fc55769fe72516b.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_e1227de182bb2c262e6de628d2f1268c25f243a5.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/internal_impl-25.0.1_80d11d70de1703b614f5bfaeed0fc2c15c9f18d6.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-transition-25.0.1_5444e9f8744c9b1ddd73880112ab84da7c14d4d6.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3a42c5696fa39930d39770f7e5552a9c965fbe09">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-vision-9.2.1_abd3eda1da854037d0f31f861d41e36d47a5037a.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.google.android.gms-play-services-basement-9.2.1_edbc26b7a6f8dd7df963623f006b153f673b7120.jar" />
+    </item>
+    <item
+        jar="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/intermediates/pre-dexed/arm7/debug/com.android.support-appcompat-v7-25.0.1_af0779703572693b8d4d9d2055da2a7189fefdc2.jar" />
     </item>
 
 </items>

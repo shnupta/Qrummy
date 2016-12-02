@@ -1,4 +1,4 @@
-# This file was generated based on /usr/local/share/uno/Packages/UnoCore/0.41.5/targets/android/qrummy/app/src/main/Makefile.
+# This file was generated based on /usr/local/share/uno/Packages/UnoCore/0.41.5/targets/android/Qrummy/app/src/main/Makefile.
 # WARNING: Changes might be lost if you edit this file directly.
 
 CC = arm-linux-androideabi-gcc
@@ -7,7 +7,7 @@ STRIP = arm-linux-androideabi-strip
 UNO = /Applications/Fuse.app/Contents/Mono/bin/mono /Applications/Fuse.app/Contents/Uno/uno.exe
 NDK_DIR = "/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK"
 SYSROOT_DIR = $(NDK_DIR)/platforms/android-9/arch-arm
-SONAME = libqrummy.so
+SONAME = libQrummy.so
 ABI = armeabi-v7a
 
 CFLAGS = -O3 -g -DNDEBUG
@@ -86,8 +86,8 @@ libs/$(ABI)/$(SONAME): .uno/_root.g.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.MainView.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.Qreader.cpp.o
 libs/$(ABI)/$(SONAME): .uno/_root.QreaderImpl.cpp.o
-libs/$(ABI)/$(SONAME): .uno/_root.qrummy_bundle.cpp.o
-libs/$(ABI)/$(SONAME): .uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o
+libs/$(ABI)/$(SONAME): .uno/_root.Qrummy_bundle.cpp.o
+libs/$(ABI)/$(SONAME): .uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.g.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.Primitives.g.cpp.o
 libs/$(ABI)/$(SONAME): .uno/Android.Base.Types.g.cpp.o
@@ -247,8 +247,8 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 
 .uno/_root.MainView.cpp.o: include/_root.MainView.h
 .uno/_root.MainView.cpp.o: include/_root.Qreader.h
-.uno/_root.MainView.cpp.o: include/_root.qrummy_bundle.h
-.uno/_root.MainView.cpp.o: include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h
+.uno/_root.MainView.cpp.o: include/_root.Qrummy_bundle.h
+.uno/_root.MainView.cpp.o: include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h
 .uno/_root.MainView.cpp.o: include/Fuse.Binding.h
 .uno/_root.MainView.cpp.o: include/Fuse.Controls.Button.h
 .uno/_root.MainView.cpp.o: include/Fuse.Controls.ButtonBase.h
@@ -339,22 +339,22 @@ libs/$(ABI)/libV8Simple.so: /usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41
 	echo _root.QreaderImpl.cpp
 	$(CXX) $(CXX_FLAGS) -o .uno/_root.QreaderImpl.cpp.o -c jni/_root.QreaderImpl.cpp
 
-.uno/_root.qrummy_bundle.cpp.o: include/_root.qrummy_bundle.h
-.uno/_root.qrummy_bundle.cpp.o: include/Uno.IO.Bundle.h
-.uno/_root.qrummy_bundle.cpp.o: include/Uno.IO.BundleFile.h
-.uno/_root.qrummy_bundle.cpp.o: include/Uno.String.h
-.uno/_root.qrummy_bundle.cpp.o: jni/_root.qrummy_bundle.cpp flags.txt | .uno
-	echo _root.qrummy_bundle.cpp
-	$(CXX) $(CXX_FLAGS) -o .uno/_root.qrummy_bundle.cpp.o -c jni/_root.qrummy_bundle.cpp
+.uno/_root.Qrummy_bundle.cpp.o: include/_root.Qrummy_bundle.h
+.uno/_root.Qrummy_bundle.cpp.o: include/Uno.IO.Bundle.h
+.uno/_root.Qrummy_bundle.cpp.o: include/Uno.IO.BundleFile.h
+.uno/_root.Qrummy_bundle.cpp.o: include/Uno.String.h
+.uno/_root.Qrummy_bundle.cpp.o: jni/_root.Qrummy_bundle.cpp flags.txt | .uno
+	echo _root.Qrummy_bundle.cpp
+	$(CXX) $(CXX_FLAGS) -o .uno/_root.Qrummy_bundle.cpp.o -c jni/_root.Qrummy_bundle.cpp
 
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Fuse.Triggers.WhileBool.h
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.IPropertyListener.h
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.PropertyObject.h
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.Selector.h
-.uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: jni/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp flags.txt | .uno
-	echo _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp
-	$(CXX) $(CXX_FLAGS) -o .uno/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp.o -c jni/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Fuse.Triggers.WhileBool.h
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.IPropertyListener.h
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.PropertyObject.h
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: include/Uno.UX.Selector.h
+.uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o: jni/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp flags.txt | .uno
+	echo _root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp
+	$(CXX) $(CXX_FLAGS) -o .uno/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp.o -c jni/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp
 
 .uno/Android.Base.g.cpp.o: include/Android.Base.AndroidBindingMacros.h
 .uno/Android.Base.g.cpp.o: include/Android.Base.JNI.h
@@ -5164,10 +5164,10 @@ include/_root.Qreader.h: include/Uno.IDisposable.h
 
 include/_root.QreaderImpl.h: include/Uno.Object.h
 
-include/_root.qrummy_bundle.h: include/Uno.h
+include/_root.Qrummy_bundle.h: include/Uno.h
 
-include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.Bool.h
-include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.UX.Property-1.h
+include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.Bool.h
+include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h: include/Uno.UX.Property-1.h
 
 include/Android.Base.AndroidBindingMacros.h: include/Uno.Type.h
 include/Android.Base.AndroidBindingMacros.h: include/Uno.Exception.h

@@ -20,7 +20,7 @@ public class SurfaceView
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddCallback140(final UnoObject _this, final Object handle)
@@ -43,7 +43,7 @@ public class SurfaceView
     
     public static Object Create145()
     {
-        return new android.view.SurfaceView(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.view.SurfaceView(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static Object GetSurface146(final Object holder)

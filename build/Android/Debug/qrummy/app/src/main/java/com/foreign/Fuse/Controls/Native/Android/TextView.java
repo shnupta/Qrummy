@@ -20,12 +20,12 @@ public class TextView
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object Create173()
     {
-        return new android.widget.TextView(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.widget.TextView(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static void SetFont174(final Object handle,final Object fontHandle)

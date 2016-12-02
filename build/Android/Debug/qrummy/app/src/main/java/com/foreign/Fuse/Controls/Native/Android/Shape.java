@@ -20,12 +20,12 @@ public class Shape
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object Create127()
     {
-        return new android.view.View(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.view.View(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static Object CreateShapeDrawable128()

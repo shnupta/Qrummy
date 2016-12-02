@@ -1,5 +1,7 @@
 {
-  "Version": "0.0.1",
+  "Title": "Qrummy",
+  "Version": "0.0.2",
+  "Build": "1",
   "Description": "A quick, fast and simple to use QR reader app.",
   "Copyright": "Copyright © 2016 Casey Williams",
   "Publisher": "Casey Williams",

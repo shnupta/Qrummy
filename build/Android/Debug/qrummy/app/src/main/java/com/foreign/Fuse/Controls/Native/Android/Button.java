@@ -20,12 +20,12 @@ public class Button
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object Create62()
     {
-        return new android.widget.Button(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.widget.Button(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static void SetText63(final Object handle,final String text)

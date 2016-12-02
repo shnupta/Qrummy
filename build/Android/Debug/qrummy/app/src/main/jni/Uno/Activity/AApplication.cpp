@@ -237,6 +237,6 @@ void AApplication::mainLoop(bool resurrected)
 
 void AApplication::Init()
 {
-    Xli::PlatformSpecific::Android::SetLogTag("qrummy");
+    Xli::PlatformSpecific::Android::SetLogTag("Qrummy");
     _forceDrawForNext = -1;
 }

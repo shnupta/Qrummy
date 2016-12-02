@@ -1,12 +1,4 @@
-See file:///Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/tmp/compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp/output.txt for all output for compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp.
-compiling _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp successful.
-
+See file:///Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/tmp/compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp/output.txt for all output for compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp.
 compiling _root.MainView.cpp successful.
 
-compiling _main.cpp successful.
-
-compiling Fuse.Reactive.g.cpp successful.
-
-compiling Fuse.Triggers.g.cpp successful.
-
-Finished compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp, see full log file:///Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/build/tmp/compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp/output.txt.
+Finished compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp, see full log file:///Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/build/tmp/compileQrummyArmeabi-v7aDebugSharedLibraryQrummyMainCpp/output.txt.

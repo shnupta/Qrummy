@@ -12,10 +12,10 @@ public class AppState {
 	public final AppLayout Layout;
 	public final SystemUI SystemUI;
 
-	public qrummy CurrentActivity;
+	public Qrummy CurrentActivity;
 	public boolean HasCreated = false;
 
-	private AppState(qrummy activity)
+	private AppState(Qrummy activity)
 	{
 		CurrentActivity = activity;
 		Display = new Display(this);
@@ -23,7 +23,7 @@ public class AppState {
 		SystemUI = new SystemUI(this, Layout.GetSystemUIChangeCallback());
 	}
 
-	public static AppState Create(qrummy activity)
+	public static AppState Create(Qrummy activity)
 	{
 		if (_appState==null) _appState = new AppState(activity);
 

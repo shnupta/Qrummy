@@ -60,7 +60,7 @@ public class SystemUI {
 	@SuppressLint("NewApi")
 	public void HideStatusBar()
 	{
-	    com.apps.qrummy.qrummy.RunOnUIThread(new Runnable() { public void run() {
+	    com.apps.qrummy.Qrummy.RunOnUIThread(new Runnable() { public void run() {
             _systemUIState = UIState.StatusBarHidden;
 	        // If the Android version is lower than Jellybean, use this call to hide
 	        // the status bar.
@@ -80,7 +80,7 @@ public class SystemUI {
 	@SuppressLint("NewApi")
 	public void ShowStatusBar()
 	{
-	    com.apps.qrummy.qrummy.RunOnUIThread(new Runnable() { public void run() {
+	    com.apps.qrummy.Qrummy.RunOnUIThread(new Runnable() { public void run() {
             _systemUIState = UIState.Normal;
 	        // If the Android version is lower than Jellybean, use this call to hide
 	        // the status bar.
@@ -99,7 +99,7 @@ public class SystemUI {
 
     public void EnterFullscreen()
     {
-        com.apps.qrummy.qrummy.RunOnUIThread(new Runnable() { public void run() {
+        com.apps.qrummy.Qrummy.RunOnUIThread(new Runnable() { public void run() {
             _systemUIState = UIState.Fullscreen;
             // If the Android version is lower than Jellybean, use this call to hide
             // the status bar.

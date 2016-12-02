@@ -20,7 +20,7 @@ public class TextEditRenderer
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void CopyState152(final Object container,final Object sourceHandle,final Object targetHandle)
@@ -89,7 +89,7 @@ public class TextEditRenderer
     
     public static Object CreateContainer153()
     {
-        android.widget.GridLayout gridLayout = new android.widget.GridLayout(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.GridLayout gridLayout = new android.widget.GridLayout(com.apps.qrummy.Qrummy.GetRootActivity());
         			gridLayout.setLayoutParams(
         				new android.widget.RelativeLayout.LayoutParams(
         					android.view.ViewGroup.LayoutParams.FILL_PARENT,
@@ -99,7 +99,7 @@ public class TextEditRenderer
     
     public static Object CreateTextEdit154()
     {
-        android.widget.TextView tv = new android.widget.TextView(com.apps.qrummy.qrummy.GetRootActivity());
+        android.widget.TextView tv = new android.widget.TextView(com.apps.qrummy.Qrummy.GetRootActivity());
         			tv.setBackgroundResource(0);
         			return tv;
     }

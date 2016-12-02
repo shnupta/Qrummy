@@ -4,6 +4,6 @@ public final class Debug
 {
     void debug_log(String message)
     {
-        android.util.Log.d("qrummy",message);
+        android.util.Log.d("Qrummy",message);
     }
 }

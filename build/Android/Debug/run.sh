@@ -7,7 +7,7 @@ cd "`dirname "$0"`"
 case $1 in
 debug)
     echo "Opening Android Studio"
-    open -a"Android Studio" "qrummy"
+    open -a"Android Studio" "Qrummy"
     exit $?
     ;;
 uninstall)
@@ -17,8 +17,8 @@ uninstall)
     ;;
 esac
 
-/Applications/Fuse.app/Contents/Mono/bin/mono /Applications/Fuse.app/Contents/Uno/uno.exe launch-apk "qrummy.apk" \
+/Applications/Fuse.app/Contents/Mono/bin/mono /Applications/Fuse.app/Contents/Uno/uno.exe launch-apk "Qrummy.apk" \
     --package=com.apps.qrummy \
-    --activity=qrummy \
-    --sym-dir="qrummy/app/src/main/.uno" \
+    --activity=Qrummy \
+    --sym-dir="Qrummy/app/src/main/.uno" \
     "$@"

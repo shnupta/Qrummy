@@ -20,7 +20,7 @@ public class ScrollView
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object AddCallback120(final UnoObject _this, final Object handle)
@@ -36,7 +36,7 @@ public class ScrollView
     
     public static Object Create122()
     {
-        return new com.fuse.android.views.VerticalScrollView(com.apps.qrummy.qrummy.GetRootActivity());
+        return new com.fuse.android.views.VerticalScrollView(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static void SetChildSize123(final Object handle,final int w,final int h)

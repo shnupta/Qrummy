@@ -20,7 +20,7 @@ public class FocusChangedListener
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void ClearListener73(final Object viewHandle)

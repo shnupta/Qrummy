@@ -20,7 +20,7 @@ public class MediaPlayer
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static Object CreateMediaPlayer207(final UnoObject _this, final Object surfaceHandle)
@@ -130,7 +130,7 @@ public class MediaPlayer
     
     public static boolean IsHardwareAccelerated221()
     {
-        android.view.Window window = com.apps.qrummy.qrummy.GetRootActivity().getWindow();
+        android.view.Window window = com.apps.qrummy.Qrummy.GetRootActivity().getWindow();
         
         			if (window != null) {
         				if ((window.getAttributes().flags & android.view.WindowManager.LayoutParams.FLAG_HARDWARE_ACCELERATED) != 0) {
@@ -140,7 +140,7 @@ public class MediaPlayer
         
         			try
         			{
-        				android.content.pm.ActivityInfo info = com.apps.qrummy.qrummy.GetRootActivity().getPackageManager().getActivityInfo(com.apps.qrummy.qrummy.GetRootActivity().getComponentName(), 0);
+        				android.content.pm.ActivityInfo info = com.apps.qrummy.Qrummy.GetRootActivity().getPackageManager().getActivityInfo(com.apps.qrummy.Qrummy.GetRootActivity().getComponentName(), 0);
         				if ((info.flags & android.content.pm.ActivityInfo.FLAG_HARDWARE_ACCELERATED) != 0) {
         					return true;
         				}
@@ -159,7 +159,7 @@ public class MediaPlayer
         			android.content.res.AssetFileDescriptor afd = null;
         			try
         			{
-        				afd = com.apps.qrummy.qrummy
+        				afd = com.apps.qrummy.Qrummy
         					.GetRootActivity()
         					.getAssets()
         					.openFd(assetName);
@@ -216,7 +216,7 @@ public class MediaPlayer
         android.media.MediaPlayer player = (android.media.MediaPlayer)handle;
         			if (player.isPlaying())
         			{
-        				android.media.AudioManager am = (android.media.AudioManager)com.apps.qrummy.qrummy.GetRootActivity().getSystemService(android.content.Context.AUDIO_SERVICE);
+        				android.media.AudioManager am = (android.media.AudioManager)com.apps.qrummy.Qrummy.GetRootActivity().getSystemService(android.content.Context.AUDIO_SERVICE);
         				am.abandonAudioFocus(null);
         				player.pause();
         			}
@@ -227,7 +227,7 @@ public class MediaPlayer
         android.media.MediaPlayer player = (android.media.MediaPlayer)handle;
         			if (!player.isPlaying())
         			{
-        				android.media.AudioManager am = (android.media.AudioManager)com.apps.qrummy.qrummy.GetRootActivity().getSystemService(android.content.Context.AUDIO_SERVICE);
+        				android.media.AudioManager am = (android.media.AudioManager)com.apps.qrummy.Qrummy.GetRootActivity().getSystemService(android.content.Context.AUDIO_SERVICE);
         				am.requestAudioFocus(null, android.media.AudioManager.STREAM_MUSIC, android.media.AudioManager.AUDIOFOCUS_GAIN);
         				player.start();
         			}

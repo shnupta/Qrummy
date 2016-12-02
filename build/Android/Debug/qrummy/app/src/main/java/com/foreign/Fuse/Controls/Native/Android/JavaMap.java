@@ -24,7 +24,7 @@ public class JavaMap
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static boolean ContainsKey194(final Object handle,final Object key)

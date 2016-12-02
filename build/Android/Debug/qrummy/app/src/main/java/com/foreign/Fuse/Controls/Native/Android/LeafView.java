@@ -20,7 +20,7 @@ public class LeafView
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static int GetMeasuredHeight99(final Object handle)

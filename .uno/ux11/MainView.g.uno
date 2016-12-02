@@ -42,7 +42,7 @@ public partial class MainView: Fuse.App
         var temp17 = new FuseJS.UserEvents();
         __g_nametable = new global::Uno.UX.NameTable(null, __g_static_nametable);
         var temp = new Fuse.Triggers.WhileTrue();
-        temp_Value_inst = new qrummy_FuseTriggersWhileBool_Value_Property(temp, __selector0);
+        temp_Value_inst = new Qrummy_FuseTriggersWhileBool_Value_Property(temp, __selector0);
         var temp18 = new Fuse.Reactive.JavaScript(__g_nametable);
         var temp19 = new Fuse.Controls.ClientPanel();
         var temp20 = new Fuse.Controls.StackPanel();
@@ -65,7 +65,7 @@ public partial class MainView: Fuse.App
         temp21.Value = "Qrummy";
         temp21.FontSize = 60f;
         temp21.Alignment = Fuse.Elements.Alignment.Center;
-        temp21.Margin = float4(30f, 30f, 30f, 30f);
+        temp21.Margin = float4(25f, 25f, 25f, 25f);
         temp21.Font = global::MainView.regular;
         temp22.Height = new Uno.UX.Size(90f, Uno.UX.Unit.Percent);
         temp22.Alignment = Fuse.Elements.Alignment.Center;
@@ -76,6 +76,7 @@ public partial class MainView: Fuse.App
         temp23.Width = new Uno.UX.Size(160f, Uno.UX.Unit.Unspecified);
         temp23.Height = new Uno.UX.Size(50f, Uno.UX.Unit.Unspecified);
         temp23.Alignment = Fuse.Elements.Alignment.Center;
+        temp23.Margin = float4(20f, 20f, 20f, 20f);
         global::Fuse.Gestures.Clicked.AddHandler(temp23, temp_eb0.OnEvent);
         temp23.Children.Add(temp24);
         temp23.Bindings.Add(temp_eb0);
@@ -87,7 +88,7 @@ public partial class MainView: Fuse.App
         temp.Bindings.Add(temp26);
         temp25.Text = "Load Page";
         temp25.Alignment = Fuse.Elements.Alignment.Center;
-        temp25.Margin = float4(20f, 20f, 20f, 20f);
+        temp25.Margin = float4(0f, 5f, 0f, 10f);
         global::Fuse.Gestures.Clicked.AddHandler(temp25, temp_eb1.OnEvent);
         temp25.Bindings.Add(temp_eb1);
         __g_nametable.This = this;

@@ -20,7 +20,7 @@ public class TextInput
 {
     static void debug_log(Object message)
     {
-        android.util.Log.d("qrummy", (message==null ? "null" : message.toString()));
+        android.util.Log.d("Qrummy", (message==null ? "null" : message.toString()));
     }
 
     public static void AddEditorActionListener159(final UnoObject _this, final Object handle)
@@ -56,7 +56,7 @@ public class TextInput
     
     public static Object Create1164()
     {
-        return new android.widget.EditText(com.apps.qrummy.qrummy.GetRootActivity());
+        return new android.widget.EditText(com.apps.qrummy.Qrummy.GetRootActivity());
     }
     
     public static boolean HasFocus165(final Object viewHandle)

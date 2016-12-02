@@ -13,7 +13,7 @@ public final class Activity
 //    public static android.app.Activity getRootActivity()
 //    #endif
     {
-        return com.apps.qrummy.qrummy.RootActivity();
+        return com.apps.qrummy.Qrummy.RootActivity();
     }
 
     // - - - - - - - - - - - - - - - - - - - - - - - -
@@ -22,13 +22,13 @@ public final class Activity
 
     public static void subscribeToLifecycleChange(LifecycleListener listener)
 	{
-        com.apps.qrummy.qrummy activity = (com.apps.qrummy.qrummy)getRootActivity();
+        com.apps.qrummy.Qrummy activity = (com.apps.qrummy.Qrummy)getRootActivity();
         activity.activityState.SubscribeToLifecycleChange(listener);
 	}
 
 	public static void unsubscribeFromLifecycleChange(LifecycleListener listener)
 	{
-        com.apps.qrummy.qrummy activity = (com.apps.qrummy.qrummy)getRootActivity();
+        com.apps.qrummy.Qrummy activity = (com.apps.qrummy.Qrummy)getRootActivity();
         activity.activityState.SubscribeToLifecycleChange(listener);
 	}
 

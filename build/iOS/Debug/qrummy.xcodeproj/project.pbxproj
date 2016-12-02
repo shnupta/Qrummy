@@ -1,5 +1,5 @@
 // !$*UTF8*$!
-// This file was generated based on /usr/local/share/uno/Packages/UnoCore/0.41.5/targets/ios/qrummy.xcodeproj/project.pbxproj.
+// This file was generated based on /usr/local/share/uno/Packages/UnoCore/0.41.5/targets/ios/Qrummy.xcodeproj/project.pbxproj.
 // WARNING: Changes might be lost if you edit this file directly.
 {
     archiveVersion = 1;
@@ -15,8 +15,8 @@
         CEB45A18256E1F2C8129B398 /* _root.MainView.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8E4C7B8B7086CC81863D548B /* _root.MainView.cpp */; };
         384B83FEE851AF6AC1138E7E /* _root.Qreader.cpp in Sources */ = {isa = PBXBuildFile; fileRef = AE0834955DFF486BCF708995 /* _root.Qreader.cpp */; };
         9F695CD9C78740775703CB59 /* _root.QreaderImpl.mm in Sources */ = {isa = PBXBuildFile; fileRef = 59DB2458F5BF9DF0565450D8 /* _root.QreaderImpl.mm */; };
-        2B89B92EDC00E83AC79248AE /* _root.qrummy_bundle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2FB1B657621CF9B5A6635654 /* _root.qrummy_bundle.cpp */; };
-        14626379D779B31B843BB479 /* _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 8C5509067D7A28E61BF69868 /* _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp */; };
+        BCD151CE19BE549A8FDB5C4E /* _root.Qrummy_bundle.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E609C00526F10CFB8BA51F05 /* _root.Qrummy_bundle.cpp */; };
+        E7369519F4BB787B52717519 /* _root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 67B9BF26A6DB2146B7F835A6 /* _root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp */; };
         23B99618446DC7443AE09298 /* Experimental.Cache.g.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5D57333D4F287E07BAC11FBD /* Experimental.Cache.g.cpp */; };
         E1BF49A6A37CA8C6C1913EA6 /* Experimental.Http.g.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A13455F9F1450C9B3E0F179D /* Experimental.Http.g.cpp */; };
         542BC06F309D2F51CDF896EF /* Experimental.Http.Internal.g.cpp in Sources */ = {isa = PBXBuildFile; fileRef = CEC1783879F4AD20CFC2BC38 /* Experimental.Http.Internal.g.cpp */; };
@@ -186,8 +186,8 @@
 
 
 /* Begin PBXFileReference section */
-        5AB0DAB218F6CF6C00975F8B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "qrummy/Images.xcassets"; sourceTree = "<group>"; };
-        5A493DA5151A216A000ACE3F /* $(Project.Name).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "qrummy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+        5AB0DAB218F6CF6C00975F8B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Qrummy/Images.xcassets"; sourceTree = "<group>"; };
+        5A493DA5151A216A000ACE3F /* $(Project.Name).app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Qrummy.app"; sourceTree = BUILT_PRODUCTS_DIR; };
         5A4940FB151D17AD000ACE3F /* data */ = {isa = PBXFileReference; lastKnownFileType = folder; path = data; sourceTree = "<group>"; };
         A2D7746C026FB63D6F4CC632 /* include/_root.FuseControls_bundle.h */ = {isa = PBXFileReference; name = _root.FuseControls_bundle.h; path = "include/_root.FuseControls_bundle.h"; sourceTree = "<group>"; };
         CC914E1473793E94C687E614 /* include/_root.FuseControlsNavigation_FuseControlsShape_Color_Property.h */ = {isa = PBXFileReference; name = _root.FuseControlsNavigation_FuseControlsShape_Color_Property.h; path = "include/_root.FuseControlsNavigation_FuseControlsShape_Color_Property.h"; sourceTree = "<group>"; };
@@ -219,8 +219,8 @@
         2A4A31507BD8FDD8E3A17050 /* include/_root.MainView.h */ = {isa = PBXFileReference; name = _root.MainView.h; path = "include/_root.MainView.h"; sourceTree = "<group>"; };
         AFBE599E2954374273AF2C9E /* include/_root.Qreader.h */ = {isa = PBXFileReference; name = _root.Qreader.h; path = "include/_root.Qreader.h"; sourceTree = "<group>"; };
         2B2FFC002D141BE022965000 /* include/_root.QreaderImpl.h */ = {isa = PBXFileReference; name = _root.QreaderImpl.h; path = "include/_root.QreaderImpl.h"; sourceTree = "<group>"; };
-        3CD4128E1A895A524EAC8D0E /* include/_root.qrummy_bundle.h */ = {isa = PBXFileReference; name = _root.qrummy_bundle.h; path = "include/_root.qrummy_bundle.h"; sourceTree = "<group>"; };
-        7A11500FE73A60FD69DD408F /* include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h */ = {isa = PBXFileReference; name = _root.qrummy_FuseTriggersWhileBool_Value_Property.h; path = "include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h"; sourceTree = "<group>"; };
+        1D2716AEE3F91232B6C9FB2E /* include/_root.Qrummy_bundle.h */ = {isa = PBXFileReference; name = _root.Qrummy_bundle.h; path = "include/_root.Qrummy_bundle.h"; sourceTree = "<group>"; };
+        FA1BD92F938DEC5DA855FAF9 /* include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h */ = {isa = PBXFileReference; name = _root.Qrummy_FuseTriggersWhileBool_Value_Property.h; path = "include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h"; sourceTree = "<group>"; };
         345415D6F697CE823CC84156 /* include/Experimental.Cache.CacheLoaded.h */ = {isa = PBXFileReference; name = Experimental.Cache.CacheLoaded.h; path = "include/Experimental.Cache.CacheLoaded.h"; sourceTree = "<group>"; };
         7140EB5E8B54549E45E9A0DE /* include/Experimental.Cache.ICache.h */ = {isa = PBXFileReference; name = Experimental.Cache.ICache.h; path = "include/Experimental.Cache.ICache.h"; sourceTree = "<group>"; };
         7B1660B712F58DC9AE3AC377 /* include/Experimental.Cache.ICacheReader.h */ = {isa = PBXFileReference; name = Experimental.Cache.ICacheReader.h; path = "include/Experimental.Cache.ICacheReader.h"; sourceTree = "<group>"; };
@@ -1664,8 +1664,8 @@
         8E4C7B8B7086CC81863D548B /* src/_root.MainView.cpp */ = {isa = PBXFileReference; name = _root.MainView.cpp; path = "src/_root.MainView.cpp"; sourceTree = "<group>"; };
         AE0834955DFF486BCF708995 /* src/_root.Qreader.cpp */ = {isa = PBXFileReference; name = _root.Qreader.cpp; path = "src/_root.Qreader.cpp"; sourceTree = "<group>"; };
         59DB2458F5BF9DF0565450D8 /* src/_root.QreaderImpl.mm */ = {isa = PBXFileReference; name = _root.QreaderImpl.mm; path = "src/_root.QreaderImpl.mm"; sourceTree = "<group>"; };
-        2FB1B657621CF9B5A6635654 /* src/_root.qrummy_bundle.cpp */ = {isa = PBXFileReference; name = _root.qrummy_bundle.cpp; path = "src/_root.qrummy_bundle.cpp"; sourceTree = "<group>"; };
-        8C5509067D7A28E61BF69868 /* src/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp */ = {isa = PBXFileReference; name = _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp; path = "src/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp"; sourceTree = "<group>"; };
+        E609C00526F10CFB8BA51F05 /* src/_root.Qrummy_bundle.cpp */ = {isa = PBXFileReference; name = _root.Qrummy_bundle.cpp; path = "src/_root.Qrummy_bundle.cpp"; sourceTree = "<group>"; };
+        67B9BF26A6DB2146B7F835A6 /* src/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp */ = {isa = PBXFileReference; name = _root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp; path = "src/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp"; sourceTree = "<group>"; };
         5D57333D4F287E07BAC11FBD /* src/Experimental.Cache.g.cpp */ = {isa = PBXFileReference; name = Experimental.Cache.g.cpp; path = "src/Experimental.Cache.g.cpp"; sourceTree = "<group>"; };
         A13455F9F1450C9B3E0F179D /* src/Experimental.Http.g.cpp */ = {isa = PBXFileReference; name = Experimental.Http.g.cpp; path = "src/Experimental.Http.g.cpp"; sourceTree = "<group>"; };
         CEC1783879F4AD20CFC2BC38 /* src/Experimental.Http.Internal.g.cpp */ = {isa = PBXFileReference; name = Experimental.Http.Internal.g.cpp; path = "src/Experimental.Http.Internal.g.cpp"; sourceTree = "<group>"; };
@@ -1857,7 +1857,7 @@
        5A493DA6151A216A000ACE3F /* Products */ = {
             isa = PBXGroup;
             children = (
-                5A493DA5151A216A000ACE3F /* qrummy.app */,
+                5A493DA5151A216A000ACE3F /* Qrummy.app */,
             );
             name = Products;
             sourceTree = "<group>";
@@ -1917,8 +1917,8 @@
                 2A4A31507BD8FDD8E3A17050 /* include/_root.MainView.h */,
                 AFBE599E2954374273AF2C9E /* include/_root.Qreader.h */,
                 2B2FFC002D141BE022965000 /* include/_root.QreaderImpl.h */,
-                3CD4128E1A895A524EAC8D0E /* include/_root.qrummy_bundle.h */,
-                7A11500FE73A60FD69DD408F /* include/_root.qrummy_FuseTriggersWhileBool_Value_Property.h */,
+                1D2716AEE3F91232B6C9FB2E /* include/_root.Qrummy_bundle.h */,
+                FA1BD92F938DEC5DA855FAF9 /* include/_root.Qrummy_FuseTriggersWhileBool_Value_Property.h */,
                 345415D6F697CE823CC84156 /* include/Experimental.Cache.CacheLoaded.h */,
                 7140EB5E8B54549E45E9A0DE /* include/Experimental.Cache.ICache.h */,
                 7B1660B712F58DC9AE3AC377 /* include/Experimental.Cache.ICacheReader.h */,
@@ -3362,8 +3362,8 @@
                 8E4C7B8B7086CC81863D548B /* src/_root.MainView.cpp */,
                 AE0834955DFF486BCF708995 /* src/_root.Qreader.cpp */,
                 59DB2458F5BF9DF0565450D8 /* src/_root.QreaderImpl.mm */,
-                2FB1B657621CF9B5A6635654 /* src/_root.qrummy_bundle.cpp */,
-                8C5509067D7A28E61BF69868 /* src/_root.qrummy_FuseTriggersWhileBool_Value_Property.cpp */,
+                E609C00526F10CFB8BA51F05 /* src/_root.Qrummy_bundle.cpp */,
+                67B9BF26A6DB2146B7F835A6 /* src/_root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp */,
                 5D57333D4F287E07BAC11FBD /* src/Experimental.Cache.g.cpp */,
                 A13455F9F1450C9B3E0F179D /* src/Experimental.Http.g.cpp */,
                 CEC1783879F4AD20CFC2BC38 /* src/Experimental.Http.Internal.g.cpp */,
@@ -3515,9 +3515,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-        5A493DA4151A216A000ACE3F /* qrummy */ = {
+        5A493DA4151A216A000ACE3F /* Qrummy */ = {
             isa = PBXNativeTarget;
-            buildConfigurationList = 5A493DBD151A216A000ACE3F /* Build configuration list for PBXNativeTarget "qrummy" */;
+            buildConfigurationList = 5A493DBD151A216A000ACE3F /* Build configuration list for PBXNativeTarget "Qrummy" */;
             buildPhases = (
                 5A493DA1151A216A000ACE3F /* Sources */,
                 5A493DA2151A216A000ACE3F /* Frameworks */,
@@ -3533,9 +3533,9 @@
             );
             dependencies = (
             );
-            name = "qrummy";
-            productName = "qrummy";
-            productReference = 5A493DA5151A216A000ACE3F /* qrummy.app */;
+            name = "Qrummy";
+            productName = "Qrummy";
+            productReference = 5A493DA5151A216A000ACE3F /* Qrummy.app */;
             productType = "com.apple.product-type.application";
         };
 /* End PBXNativeTarget section */
@@ -3561,7 +3561,7 @@
                     };
                 };
             };
-            buildConfigurationList = 5A493D9F151A216A000ACE3F /* Build configuration list for PBXProject "qrummy" */;
+            buildConfigurationList = 5A493D9F151A216A000ACE3F /* Build configuration list for PBXProject "Qrummy" */;
             compatibilityVersion = "Xcode 3.2";
             developmentRegion = English;
             hasScannedForEncodings = 0;
@@ -3574,7 +3574,7 @@
             projectDirPath = "";
             projectRoot = "";
             targets = (
-                5A493DA4151A216A000ACE3F /* qrummy */,
+                5A493DA4151A216A000ACE3F /* Qrummy */,
             );
         };
 /* End PBXProject section */
@@ -3606,8 +3606,8 @@
                 CEB45A18256E1F2C8129B398 /* _root.MainView.cpp in Sources */,
                 384B83FEE851AF6AC1138E7E /* _root.Qreader.cpp in Sources */,
                 9F695CD9C78740775703CB59 /* _root.QreaderImpl.mm in Sources */,
-                2B89B92EDC00E83AC79248AE /* _root.qrummy_bundle.cpp in Sources */,
-                14626379D779B31B843BB479 /* _root.qrummy_FuseTriggersWhileBool_Value_Property.cpp in Sources */,
+                BCD151CE19BE549A8FDB5C4E /* _root.Qrummy_bundle.cpp in Sources */,
+                E7369519F4BB787B52717519 /* _root.Qrummy_FuseTriggersWhileBool_Value_Property.cpp in Sources */,
                 23B99618446DC7443AE09298 /* Experimental.Cache.g.cpp in Sources */,
                 E1BF49A6A37CA8C6C1913EA6 /* Experimental.Http.g.cpp in Sources */,
                 542BC06F309D2F51CDF896EF /* Experimental.Http.Internal.g.cpp in Sources */,
@@ -3857,7 +3857,7 @@
 
                 GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
                 GCC_PRECOMPILE_PREFIX_HEADER = YES;
-                GCC_PREFIX_HEADER = "qrummy/qrummy-Prefix.pch";
+                GCC_PREFIX_HEADER = "Qrummy/Qrummy-Prefix.pch";
                 GCC_SYMBOLS_PRIVATE_EXTERN = YES;
                 GCC_WARN_UNINITIALIZED_AUTOS = NO;
                 GCC_WARN_UNUSED_FUNCTION = NO;
@@ -3867,7 +3867,7 @@
                     include,
                     /usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/iOS/include,
                 );
-                INFOPLIST_FILE = "qrummy/qrummy-Info.plist";
+                INFOPLIST_FILE = "Qrummy/Qrummy-Info.plist";
                 LIBRARY_SEARCH_PATHS = (
                     "$(inherited)",
                     "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/iOS/lib/$CONFIGURATION$EFFECTIVE_PLATFORM_NAME",
@@ -3900,7 +3900,7 @@
 
                 GCC_INLINES_ARE_PRIVATE_EXTERN = YES;
                 GCC_PRECOMPILE_PREFIX_HEADER = YES;
-                GCC_PREFIX_HEADER = "qrummy/qrummy-Prefix.pch";
+                GCC_PREFIX_HEADER = "Qrummy/Qrummy-Prefix.pch";
                 GCC_SYMBOLS_PRIVATE_EXTERN = YES;
                 GCC_WARN_UNINITIALIZED_AUTOS = NO;
                 GCC_WARN_UNUSED_FUNCTION = NO;
@@ -3910,7 +3910,7 @@
                     include,
                     /usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/iOS/include,
                 );
-                INFOPLIST_FILE = "qrummy/qrummy-Info.plist";
+                INFOPLIST_FILE = "Qrummy/Qrummy-Info.plist";
                 LIBRARY_SEARCH_PATHS = (
                     "$(inherited)",
                     "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/iOS/lib/$CONFIGURATION$EFFECTIVE_PLATFORM_NAME",
@@ -3929,7 +3929,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-        5A493D9F151A216A000ACE3F /* Build configuration list for PBXProject "qrummy" */ = {
+        5A493D9F151A216A000ACE3F /* Build configuration list for PBXProject "Qrummy" */ = {
             isa = XCConfigurationList;
             buildConfigurations = (
                 5A493DBB151A216A000ACE3F /* Debug */,
@@ -3938,7 +3938,7 @@
             defaultConfigurationIsVisible = 0;
             defaultConfigurationName = Release;
         };
-        5A493DBD151A216A000ACE3F /* Build configuration list for PBXNativeTarget "qrummy" */ = {
+        5A493DBD151A216A000ACE3F /* Build configuration list for PBXNativeTarget "Qrummy" */ = {
             isa = XCConfigurationList;
             buildConfigurations = (
                 5A493DBE151A216A000ACE3F /* Debug */,

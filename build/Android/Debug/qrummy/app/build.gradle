@@ -63,7 +63,7 @@ model {
             minSdkVersion.apiLevel = 16
             targetSdkVersion.apiLevel = 23
             versionCode = 0
-            versionName = "0.0.1"
+            versionName = "0.0.2"
         }
     }
 
@@ -79,14 +79,14 @@ model {
 //#endif
 
     android.ndk {
-        moduleName = "qrummy"
+        moduleName = "Qrummy"
         debuggable = true
         platformVersion = 9
         CFlags.addAll(["-std=c99"])
-        CFlags.addAll(["-I/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/src/main/include", "-I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3", "-I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include"])
+        CFlags.addAll(["-I/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/src/main/include", "-I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3", "-I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include"])
         CFlags.addAll([])
         cppFlags.addAll(["-std=c++11", "-fexceptions", "-frtti", "-Wno-invalid-offsetof"])
-        cppFlags.addAll(["-I/Users/caseywilliams/Documents/Apps/qrummy/build/Android/Debug/qrummy/app/src/main/include", "-I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3", "-I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include"])
+        cppFlags.addAll(["-I/Users/caseywilliams/Documents/Apps/Qrummy/build/Android/Debug/Qrummy/app/src/main/include", "-I/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3", "-I/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/include"])
         cppFlags.addAll([])
         ldFlags.addAll(["-L/Users/caseywilliams/Library/Application Support/Fusetools/Fuse/Android/AndroidNDK/sources/cxx-stl/stlport/libs/armeabi-v7a", "-L/usr/local/share/uno/Packages/Fuse.Scripting.V8/0.41.3/lib/Android", "-L/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a"])
         ldLibs.addAll(["/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libuImage.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libpng.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libjpeg.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libfreetype.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libXliMain.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libXliPlatform.a", "/usr/local/share/uno/Packages/UnoCore/0.41.5/prebuilt/Android/lib/armeabi-v7a/libuBase.a"])
